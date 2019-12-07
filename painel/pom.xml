@@ -11,10 +11,13 @@
 	<groupId>com.cleomargigolette</groupId>
 	<artifactId>painel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>painel</name>
 	<description>Api para projeto de um painel eletrônico para comercios.</description>
 
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
 
